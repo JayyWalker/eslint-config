@@ -1,12 +1,13 @@
 {
   "name": "eslint-config-jayyonline",
   "version": "1.0.0",
-  "main": "index.js",
   "repository": "git@github.com:JayyWalker/eslint-config.git",
   "author": "Jordan Walker <jordan@jayy.online>",
   "license": "MIT",
   "private": true,
-  "exports": {
-    "./": "./lib"
+  "main": "index.js",
+  "peerDependencies": {
+    "eslint": "^7.6.0",
+    "eslint-config-airbnb-base": "^14.2.0"
   }
 }

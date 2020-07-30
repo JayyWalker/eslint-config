@@ -1,4 +1,4 @@
-module.export = {
+module.exports = {
   extends: 'airbnb-typescript/base',
   plugins: ['@typescript-eslint'],
   parser: ['@typescript-eslint/parser'],
