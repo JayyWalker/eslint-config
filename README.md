@@ -2,4 +2,6 @@
 
 ## Requirements
 
-- @typescript-eslint/eslint-plugids
+- @typescript-eslint/eslint-plugin
+- eslint-config-airbnb-typescript
+
